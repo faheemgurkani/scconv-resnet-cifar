@@ -4,5 +4,5 @@ env/
 *.log
 data/
 
-# Ignore everything in src/
+# Ignoring all files in the ConvNeXt-V2 directory
 src/ConvNeXt-V2/
