@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+env/
+*.log
+data/
+
+# Ignore everything in src/
+src/ConvNeXt-V2/
